@@ -1,0 +1,27 @@
+-------------apps in Buea database design-------------------------------------------------
+
+	1-id
+
+	2-img
+
+	3-appName
+
+	4-appCategorie
+		--->Game
+		--->social_network
+		--->productivity
+		--->tools
+
+	5-description
+
+	6-linkToDownload
+
+	7-linkToSite
+
+	8-creatureName
+
+	9-rating
+		-->thumb-up
+		-->thumb-down
+	
+

@@ -1,0 +1,13 @@
+/* this is the custom css */
+.app{
+	min-height:auto;
+	height:auto;
+	/*background-color:black;*/
+	border:10px solid #999;
+	border-radius:1em;
+	text-align:center;
+	transform:skew(2deg,5deg);
+	
+}
+
+
