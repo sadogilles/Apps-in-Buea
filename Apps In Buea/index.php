@@ -1,7 +1,7 @@
 <!--doctype Html -->
 <html>
 	<head>
-		<!--charset respond -->
+		<!--This is the Header -->
 		<meta charset="utf-8"/>
 		<title>Apps In Buea</title>
 		<!--enable view-point regulation -->
