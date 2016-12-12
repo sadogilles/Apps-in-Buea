@@ -1,13 +1,7 @@
-/* this is the custom css */
-.app{
-	min-height:auto;
-	height:auto;
-	/*background-color:black;*/
-	border:10px solid #999;
-	border-radius:1em;
-	text-align:center;
-	transform:skew(2deg,5deg);
-	
+/*this is the custom css*/
+
+
+/*modification of the second header to prevent the overlapping with the first header*/
+.header2{
+	margin-top:55px;
 }
-
-

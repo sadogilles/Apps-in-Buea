@@ -1,0 +1,15 @@
+l image
+Nom de l application 
+Type d'application
+	jeux
+	reseau sociaux
+	productivite
+	outils
+Description courte
+Description longue
+Lien vers le site de telechargement
+Lien vers le site de la societe
+nom du createur
+Rating 
+	thumb up 
+	thumb down
